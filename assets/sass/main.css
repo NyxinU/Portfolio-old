@@ -1413,7 +1413,7 @@ ol.default li {
 }
 
 .icon.featured {
-  color: #EA8A95;
+  color: #ffda5a;
   display: block;
   margin: 0 0 1.5em 0;
   cursor: default;
@@ -1841,6 +1841,4 @@ ol.default li {
     display: block;
   }
 }
- 
-
- /*# sourceMappingURL= main.css.map */
+/*# sourceMappingURL=main.css.map */
