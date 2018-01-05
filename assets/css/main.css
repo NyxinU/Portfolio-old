@@ -2104,3 +2104,16 @@
 				}
 
 	}
+
+	/* personal changes */
+	.learn-more {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.learn-more > a {
+		text-decoration-line: none;
+		font-size: 1.25em;
+		color: #888;
+		margin-bottom: .5em;
+	}
